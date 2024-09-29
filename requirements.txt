@@ -1,0 +1,5 @@
+cypress
+cypress-xpath
+mochawesome
+mochawesome-merge
+mochawesome-report-generator
